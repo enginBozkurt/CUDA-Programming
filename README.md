@@ -3,7 +3,7 @@
 ## Accelerating Applications with CUDA C/C++
 
 ## Objectives
-@octocat :+1: By the time you complete this lab, you will be able to: :shipit:
+ By the time you complete this lab, you will be able to: 
 
 * Write, compile, and run C/C++ programs that both call CPU functions and launch GPU kernels.
 
